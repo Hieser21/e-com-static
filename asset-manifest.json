@@ -1,29 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.443195f9.chunk.css",
-    "main.js": "/static/js/main.a5cdf2d3.chunk.js",
-    "main.js.map": "/static/js/main.a5cdf2d3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.948a7910.js",
-    "runtime-main.js.map": "/static/js/runtime-main.948a7910.js.map",
+    "main.css": "/static/css/main.9cba4202.chunk.css",
+    "main.js": "/static/js/main.2a88236f.chunk.js",
+    "main.js.map": "/static/js/main.2a88236f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.32f06de0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.32f06de0.js.map",
     "static/css/2.c4e73993.chunk.css": "/static/css/2.c4e73993.chunk.css",
-    "static/js/2.8f01ba2d.chunk.js": "/static/js/2.8f01ba2d.chunk.js",
-    "static/js/2.8f01ba2d.chunk.js.map": "/static/js/2.8f01ba2d.chunk.js.map",
-    "static/js/3.2114da7a.chunk.js": "/static/js/3.2114da7a.chunk.js",
-    "static/js/3.2114da7a.chunk.js.map": "/static/js/3.2114da7a.chunk.js.map",
+    "static/js/2.70eec8b1.chunk.js": "/static/js/2.70eec8b1.chunk.js",
+    "static/js/2.70eec8b1.chunk.js.map": "/static/js/2.70eec8b1.chunk.js.map",
+    "static/js/3.eecafeda.chunk.js": "/static/js/3.eecafeda.chunk.js",
+    "static/js/3.eecafeda.chunk.js.map": "/static/js/3.eecafeda.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.c4e73993.chunk.css.map": "/static/css/2.c4e73993.chunk.css.map",
-    "static/css/main.443195f9.chunk.css.map": "/static/css/main.443195f9.chunk.css.map",
-    "static/js/2.8f01ba2d.chunk.js.LICENSE.txt": "/static/js/2.8f01ba2d.chunk.js.LICENSE.txt",
+    "static/css/main.9cba4202.chunk.css.map": "/static/css/main.9cba4202.chunk.css.map",
+    "static/js/2.70eec8b1.chunk.js.LICENSE.txt": "/static/js/2.70eec8b1.chunk.js.LICENSE.txt",
     "static/media/Cs.ecc15621.png": "/static/media/Cs.ecc15621.png",
-    "static/media/Delivery 01.8c51d3a4.jpg": "/static/media/Delivery 01.8c51d3a4.jpg",
-    "static/media/Stripe-Logo.93b97666.png": "/static/media/Stripe-Logo.93b97666.png",
-    "static/media/LandingPage.css": "/static/media/office.aba64de9.jpg"
+    "static/media/Delivery 01.8c51d3a4.jpg": "/static/media/Delivery 01.8c51d3a4.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.948a7910.js",
+    "static/js/runtime-main.32f06de0.js",
     "static/css/2.c4e73993.chunk.css",
-    "static/js/2.8f01ba2d.chunk.js",
-    "static/css/main.443195f9.chunk.css",
-    "static/js/main.a5cdf2d3.chunk.js"
+    "static/js/2.70eec8b1.chunk.js",
+    "static/css/main.9cba4202.chunk.css",
+    "static/js/main.2a88236f.chunk.js"
   ]
 }
